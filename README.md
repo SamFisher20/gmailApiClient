@@ -1,6 +1,6 @@
 # gmailApiClient
 
-A Spring Boot application that seamlessly integrates with the Gmail API for efficient email management and secure OAuth2 authentication.
+Explore the seamless integration of Gmail within a Spring Boot framework with this application, designed to offer secure and efficient email management. Harnessing OAuth2 for robust authentication, it provides a user-friendly platform to read, compose, and organize emails, making it an ideal solution for both personal and professional email interactions powered by Gmail's extensive capabilities.
 
 ## Getting Started with the Gmail API
 
